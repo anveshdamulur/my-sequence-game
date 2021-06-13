@@ -1,0 +1,56 @@
+.sentence__container {
+    margin: 50px 0 0 0;
+  }
+  
+  .failure__btn{
+    padding: 5px 20px;
+    margin: 20px 0 0 0;
+    cursor: pointer;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(93, 8, 8);
+    z-index: 1;
+  }
+
+  .success__btn{
+    padding: 5px 20px;
+    margin: 20px 0 0 0;
+    cursor: pointer;
+    background-color:blanchedalmond;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(35, 233, 35);    
+    z-index: 1;
+  }
+  
+  .sentence__loose {
+    position: absolute;
+    left: -50px;
+    height: 400px;
+    width: 400px;
+  }
+  
+  .sentence__win {
+    position: absolute;
+    top: -70px;
+    left: -165px;
+    height: 500px;
+    width: 600px;
+  }
+.result{
+  font-size: 50px;
+  font-weight: 500;
+
+}
+  .success__btn{
+   color: green;
+   font-size: 30px;
+   background-color: black;
+   border:none;
+   cursor: pointer;
+  }

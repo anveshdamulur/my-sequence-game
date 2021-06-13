@@ -1,0 +1,21 @@
+input,
+label {
+  display: block;
+}
+
+.question__label {
+  margin: 0 0 10px 0;
+  font-size: 30px;
+}
+
+.question_input {
+  padding: 5px 30px;
+  margin: 0 0 20px 0;
+  font-size: 20px;
+  color: rgb(158, 255, 239);
+  background-color: transparent;
+  border: 1px solid rgb(243, 208, 208);
+  border-radius: 10px;
+  text-align: center;
+}
+

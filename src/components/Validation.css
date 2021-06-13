@@ -1,0 +1,9 @@
+.validation__text__red {
+    font-size: 50px;
+    color: red;
+  }
+  
+.validation__text__green {
+    font-size: 50px;
+    color: rgb(35, 233, 35);
+  }

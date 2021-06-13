@@ -1,0 +1,18 @@
+.sentence__maker__container {
+    margin: 0 0 30px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .ready__button{
+    padding: 5px 20px;
+    margin: 20px 0 0 0;
+    cursor: pointer;
+    background-color: transparent;
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 20px;
+    color: rgb(253, 243, 243);
+  }
